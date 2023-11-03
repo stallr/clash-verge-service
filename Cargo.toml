@@ -1,10 +1,10 @@
 [package]
 name = "clash-verge-service"
 version = "0.1.0"
-edition = "2021"
-authors = ["zzzgydi"]
+edition = "2023"
+authors = ["stallr"]
 license = "GPL-3.0"
-repository = "https://github.com/zzzgydi/clash-verge-service.git"
+repository = "https://github.com/stallr/clash-verge-service.git"
 
 [[bin]]
 name = "clash-verge-service"
